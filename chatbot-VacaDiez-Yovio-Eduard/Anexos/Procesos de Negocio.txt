@@ -1,0 +1,28 @@
+#Procesos de Negocio: Implementación de Chatbot en ModaClick
+#Eduard Vaca Diez Yovio
+	##Objetivo del proceso:
+	Mejorar la atención al cliente y optimizar los recursos humanos mediante la incorporación de un chatbot que responda consultas frecuentes en la tienda online de ropa "ModaClick".
+
+	##Roles involucrados:
+	1.	👩‍ Responsable de Atención al Cliente y Operaciones de Negocio (AO)
+	2.	📊 Responsable de Mejora y Estrategia Comercial (ME)
+	3.	📑 Responsable de Comunicación y Marketing (CM)
+	##Tareas por rol:
+	1. Responsable de Atención y Operaciones (AO)
+	•	T1. Revisar y clasificar los mensajes recibidos por WhatsApp, redes y web.
+	•	T2. Redactar respuestas estándar claras y consistentes.
+	•	T3. Simular conversaciones típicas con clientes para validar respuestas.
+	•	T4. Atender las consultas que el chatbot no pueda resolver.
+	•	T5. Definir en qué momentos y canales operará el chatbot (web, redes, etc.).
+	##2. Responsable de Mejora y Estrategia Comercial (ME)
+	•	T6. Asignar responsables para revisar métricas semanales del chatbot.
+	•	T7. Evaluar si el chatbot reduce el tiempo promedio de atención
+	•	T8. Recopilar comentarios de los clientes sobre la utilidad del chatbot.
+	•	T9. Detectar oportunidades de venta cruzada o sugerencias.
+	•	T10. Proponer mejoras al flujo de atención integrando el chatbot con promociones.
+	##3. Responsable de Comunicación y Marketing (CM)
+	•	T11. Diseñar la campaña de lanzamiento del chatbot en redes sociales.
+	•	T12. Elaborar mensajes publicitarios amigables para explicar el uso del chatbot.
+	•	T13. Coordinar con AO para garantizar que la comunicación sea coherente con la experiencia real.
+	•	T14. Medir el impacto de la campaña de lanzamiento en tráfico y consultas.
+	•	T15. Ajustar las estrategias de marketing según el comportamiento de los usuarios con el chatbot.
